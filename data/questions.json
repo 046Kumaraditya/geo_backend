@@ -1,0 +1,302 @@
+
+[
+    {
+      "id": 1,
+      "text": "Which state is known as 'God's Own Country'?",
+      "options": ["Kerala", "Tamil Nadu", "Goa", "Karnataka"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "text": "Which is the largest state in India by area?",
+      "options": ["Maharashtra", "Madhya Pradesh", "Uttar Pradesh", "Rajasthan"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3,
+      "text": "Which state is home to the Kaziranga National Park?",
+      "options": ["Assam", "West Bengal", "Odisha", "Meghalaya"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "text": "Which city is the capital of Telangana?",
+      "options": ["Warangal", "Secunderabad", "Hyderabad", "Karimnagar"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "text": "The Thar Desert is primarily located in which state?",
+      "options": ["Gujarat", "Rajasthan", "Haryana", "Punjab"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 6,
+      "text": "Which state is known as the 'Land of Five Rivers'?",
+      "options": ["Haryana", "Uttar Pradesh", "Punjab", "Uttarakhand"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 7,
+      "text": "Which is the smallest state in India by area?",
+      "options": ["Sikkim", "Goa", "Tripura", "Manipur"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "text": "The Valley of Flowers National Park is located in?",
+      "options": ["Himachal Pradesh", "Sikkim", "Uttarakhand", "Arunachal Pradesh"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "text": "Which state is famous for its backwaters?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 10,
+      "text": "Which state in India has the highest literacy rate?",
+      "options": ["Kerala", "Mizoram", "Goa", "Tripura"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 11,
+      "text": "Which state is known as the 'Sugar Bowl of India'?",
+      "options": ["Maharashtra", "Uttar Pradesh", "Punjab", "Bihar"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 12,
+      "text": "Which river forms the boundary between Tamil Nadu and Andhra Pradesh?",
+      "options": ["Cauvery", "Krishna", "Godavari", "Palar"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 13,
+      "text": "Which state is home to the Gir Forest National Park?",
+      "options": ["Madhya Pradesh", "Gujarat", "Rajasthan", "Maharashtra"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "text": "Which city is the capital of Odisha?",
+      "options": ["Cuttack", "Bhubaneswar", "Puri", "Rourkela"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 15,
+      "text": "Jog Falls is located in which state?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "text": "Which is the easternmost state of India?",
+      "options": ["Nagaland", "Manipur", "Mizoram", "Arunachal Pradesh"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 17,
+      "text": "Which state shares its border with the most number of other states?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Assam", "Bihar"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 18,
+      "text": "Which state is known as the 'Fruit Bowl of India'?",
+      "options": ["Kashmir", "Himachal Pradesh", "Uttarakhand", "Sikkim"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 19,
+      "text": "Which city is the capital of Chhattisgarh?",
+      "options": ["Raipur", "Bilaspur", "Bhilai", "Durg"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 20,
+      "text": "Which state is known for the Valley of Flowers?",
+      "options": ["Sikkim", "Himachal Pradesh", "Uttarakhand", "Jammu & Kashmir"],
+      "correctAnswer": 2
+    },{
+      "id": 21,
+      "text": "Which Indian state is famous for the Sun Temple at Konark?",
+      "options": ["Odisha", "West Bengal", "Bihar", "Jharkhand"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 22,
+      "text": "Which state is known as the 'Spice Garden of India'?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 23,
+      "text": "The Sunderbans are primarily located in which state?",
+      "options": ["Odisha", "West Bengal", "Assam", "Tripura"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 24,
+      "text": "Which Indian state is known for its Bihu festival?",
+      "options": ["Assam", "West Bengal", "Odisha", "Manipur"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 25,
+      "text": "Which state is the largest producer of tea in India?",
+      "options": ["Assam", "West Bengal", "Kerala", "Himachal Pradesh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 26,
+      "text": "In which state is the city of Udaipur located?",
+      "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Punjab"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 27,
+      "text": "Which Indian state is famous for its classical dance form 'Bharatanatyam'?",
+      "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Odisha"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 28,
+      "text": "Which Indian state is famous for the folk dance 'Bhangra'?",
+      "options": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 29,
+      "text": "Which city is the capital of Manipur?",
+      "options": ["Imphal", "Shillong", "Agartala", "Kohima"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 30,
+      "text": "Which state is famous for the Great Rann of Kutch?",
+      "options": ["Rajasthan", "Gujarat", "Maharashtra", "Madhya Pradesh"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 31,
+      "text": "Which state has the longest coastline in India?",
+      "options": ["Maharashtra", "Andhra Pradesh", "Tamil Nadu", "Gujarat"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 32,
+      "text": "Where is the Meenakshi Temple located?",
+      "options": ["Kerala", "Andhra Pradesh", "Tamil Nadu", "Karnataka"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 33,
+      "text": "Which Indian state is known for the dance form 'Kathakali'?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Odisha"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 34,
+      "text": "Which city is the capital of Mizoram?",
+      "options": ["Aizawl", "Kohima", "Imphal", "Agartala"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 35,
+      "text": "Which state is famous for the Dudhsagar Falls?",
+      "options": ["Goa", "Karnataka", "Kerala", "Maharashtra"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 36,
+      "text": "Which Indian state is called the 'Switzerland of the East'?",
+      "options": ["Sikkim", "Manipur", "Meghalaya", "Mizoram"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 37,
+      "text": "Which city is the capital of Uttarakhand?",
+      "options": ["Dehradun", "Haridwar", "Nainital", "Rishikesh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 38,
+      "text": "In which state is the city of Varanasi located?",
+      "options": ["Uttar Pradesh", "Bihar", "Jharkhand", "Madhya Pradesh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 39,
+      "text": "Which union territory is famous for its French heritage?",
+      "options": ["Daman and Diu", "Lakshadweep", "Puducherry", "Chandigarh"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 40,
+      "text": "Which state has the highest number of wildlife sanctuaries?",
+      "options": ["Madhya Pradesh", "Karnataka", "Rajasthan", "Uttarakhand"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 41,
+      "text": "Which Indian state celebrates Hornbill Festival?",
+      "options": ["Mizoram", "Nagaland", "Tripura", "Assam"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 42,
+      "text": "Which state is famous for Chhau dance?",
+      "options": ["Jharkhand", "West Bengal", "Odisha", "All of the above"],
+      "correctAnswer": 3
+    },
+    {
+      "id": 43,
+      "text": "Which state is famous for the temple town of Madurai?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 44,
+      "text": "Where is the Bandipur National Park located?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Maharashtra"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 45,
+      "text": "Which state is known for the Kumbh Mela?",
+      "options": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Rajasthan"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 46,
+      "text": "Which state is the largest producer of cotton in India?",
+      "options": ["Maharashtra", "Gujarat", "Andhra Pradesh", "Punjab"],
+      "correctAnswer": 1
+    },
+    {
+      "id": 47,
+      "text": "Which Indian state is known for the temple city of Bhubaneswar?",
+      "options": ["Odisha", "West Bengal", "Bihar", "Chhattisgarh"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 48,
+      "text": "Which city is the capital of Arunachal Pradesh?",
+      "options": ["Itanagar", "Dispur", "Agartala", "Kohima"],
+      "correctAnswer": 0
+    },
+    {
+      "id": 49,
+      "text": "Which state is home to the famous hill station Darjeeling?",
+      "options": ["Assam", "Sikkim", "West Bengal", "Meghalaya"],
+      "correctAnswer": 2
+    },
+    {
+      "id": 50,
+      "text": "Which Indian state is known for the Sanchi Stupa?",
+      "options": ["Madhya Pradesh", "Bihar", "Odisha", "Uttar Pradesh"],
+      "correctAnswer": 0
+    }
+  ]
